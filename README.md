@@ -41,8 +41,8 @@ pkg update -y && pkg upgrade -y
 pkg install git -y
 git clone https://github.com/Analyst-abdul/Debian-termux.git
 cd Debian-termux
-chmod +x install-debian-gui.sh
-./install-debian-gui.sh
+chmod +x debian-gui.sh
+./debian-gui.sh
 ```
 
 ⏳ **First installation may take several minutes** depending on your internet speed.
