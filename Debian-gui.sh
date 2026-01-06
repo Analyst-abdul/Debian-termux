@@ -103,6 +103,8 @@ echo ""
 echo "👉 Open VNC Viewer and connect to:"
 echo "   localhost:5901"
 echo ""
+echo "👉 Password : 123456"
+echo ""
 echo "⚠️ Keep Termux running while using VNC"
 echo "🎉 DONE!"
 
